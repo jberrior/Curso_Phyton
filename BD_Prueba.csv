@@ -1,0 +1,539 @@
+Indicador;Mes;Negocio;Nodo;Meta;Real;Tipo de indicador;Resultado 1;Resultado 2;Resulatado indicador
+Crecimiento ingresos;44561;Turismo;Bienestar Físico y Emocional;0,745;1,4739;Creciente;1,978389262;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44561;Turismo;Bienestar Físico y Emocional;-1,1563;-0,6585;Creciente;1,430511113;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Turismo;Bienestar Físico y Emocional;1;1,0904;Decreciente;0,9096;0,9096;Tolerable
+Porcentaje de egreso subsidiado;44561;Turismo;Bienestar Físico y Emocional;0,5362;0,3971;Decreciente;1,259418128;1,2;Sobresaliente
+Satísfacción afiliados ;44561;Turismo;Bienestar Físico y Emocional;4,65;4,57;Creciente;0,982795699;0,982795699;Satisfactorio
+Percepción de bienestar generado por la Caja;44561;Turismo;Bienestar Físico y Emocional;0,5;0,5463;Creciente;1,0926;1,0926;Sobresaliente
+Crecimiento de coberturas;44561;Turismo;Bienestar Físico y Emocional;0,4468;0,7095;Creciente;1,587958818;1,2;Sobresaliente
+Penetración de uso en la población A y B;44561;Turismo;Bienestar Físico y Emocional;0,3887;0,2855;Creciente;0,734499614;0,734499614;Incumple
+Crecimiento ingresos;44561;Hoteles;Bienestar Físico y Emocional;0,7673;1,4786;Creciente;1,927016812;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Hoteles;Bienestar Físico y Emocional;1;1,1035;Decreciente;0,8965;0,8965;Tolerable
+Porcentaje de egreso subsidiado;44561;Hoteles;Bienestar Físico y Emocional;0,543;0,4192;Decreciente;1,227992634;1,2;Sobresaliente
+Satísfacción afiliados ;44561;Hoteles;Bienestar Físico y Emocional;4,65;4,59;Creciente;0,987096774;0,987096774;Satisfactorio
+Percepción de bienestar generado por la Caja;44561;Hoteles;Bienestar Físico y Emocional;0,5;0,5608;Creciente;1,1216;1,1216;Sobresaliente
+Crecimiento de coberturas;44561;Hoteles;Bienestar Físico y Emocional;0,4146;0,5315;Creciente;1,281958514;1,2;Sobresaliente
+Penetración de uso en la población A y B;44561;Hoteles;Bienestar Físico y Emocional;0,4345;0,3404;Creciente;0,783429229;0,783429229;Incumple
+Crecimiento ingresos;44561;Agencia de Viajes;Bienestar Físico y Emocional;0,5137;1,4249;Creciente;2,773797937;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44561;Agencia de Viajes;Bienestar Físico y Emocional;0,01;0,0146;Creciente;1,46;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Agencia de Viajes;Bienestar Físico y Emocional;1;0,8931;Decreciente;1,1069;1,1069;Sobresaliente
+Satísfacción afiliados ;44561;Agencia de Viajes;Bienestar Físico y Emocional;4,65;4,44;Creciente;0,95483871;0,95483871;Satisfactorio
+Percepción de bienestar generado por la Caja;44561;Agencia de Viajes;Bienestar Físico y Emocional;0,5;0,4729;Creciente;0,9458;0,9458;Tolerable
+Crecimiento de coberturas;44561;Agencia de Viajes;Bienestar Físico y Emocional;0,6779;1,9856;Creciente;2,929045582;1,2;Sobresaliente
+Penetración de uso en la población A y B;44561;Agencia de Viajes;Bienestar Físico y Emocional;0,112;0,0838;Creciente;0,748214286;0,748214286;Incumple
+Crecimiento ingresos;44561;Recreación y Deportes;Bienestar Físico y Emocional;1,595;1,7206;Creciente;1,078746082;1,078746082;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Recreación y Deportes;Bienestar Físico y Emocional;1;1,0875;Decreciente;0,9125;0,9125;Tolerable
+Porcentaje de egreso subsidiado;44561;Recreación y Deportes;Bienestar Físico y Emocional;0,4719;0,4909;Decreciente;0,959737232;0,959737232;Satisfactorio
+Satísfacción afiliados ;44561;Recreación y Deportes;Bienestar Físico y Emocional;4,65;4,41;Creciente;0,948387097;0,948387097;Tolerable
+Percepción de bienestar generado por la Caja;44561;Recreación y Deportes;Bienestar Físico y Emocional;0,5;0,5411;Creciente;1,0822;1,0822;Sobresaliente
+Crecimiento de coberturas;44561;Recreación y Deportes;Bienestar Físico y Emocional;1,6047;1,3501;Creciente;0,841341061;0,841341061;Tolerable
+Penetración de uso en la población A y B;44561;Recreación y Deportes;Bienestar Físico y Emocional;0,2776;0,1996;Creciente;0,719020173;0,719020173;Incumple
+Crecimiento ingresos;44561;Alimentos y Bebidas;Bienestar Físico y Emocional;1,2797;1,8875;Creciente;1,474955068;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44561;Alimentos y Bebidas;Bienestar Físico y Emocional;0,0576;0,1894;Creciente;3,288194444;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Alimentos y Bebidas;Bienestar Físico y Emocional;1;1,0899;Decreciente;0,9101;0,9101;Tolerable
+Crecimiento ingresos;44561;Fomento de la salud;Bienestar Físico y Emocional;0,0875;1,1285;Creciente;12,89714286;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Fomento de la salud;Bienestar Físico y Emocional;1;1,7778;Decreciente;0,2222;0,2222;Incumple
+Porcentaje de egreso subsidiado;44561;Fomento de la salud;Bienestar Físico y Emocional;0,2609;0,1865;Decreciente;1,285166731;1,2;Sobresaliente
+Satísfacción afiliados ;44561;Fomento de la salud;Bienestar Físico y Emocional;4,65;4,37;Creciente;0,939784946;0,939784946;Tolerable
+Percepción de bienestar generado por la Caja;44561;Fomento de la salud;Bienestar Físico y Emocional;0,5;0,438;Creciente;0,876;0,876;Tolerable
+Crecimiento de coberturas;44561;Fomento de la salud;Bienestar Físico y Emocional;0,1467;1,3137;Creciente;8,955010225;1,2;Sobresaliente
+Penetración de uso en la población A y B;44561;Fomento de la salud;Bienestar Físico y Emocional;0,2331;0,1286;Creciente;0,551694552;0,551694552;Incumple
+Crecimiento ingresos;44561;Educación;Bienestar Social e Intelectual;0,5035;0,6156;Creciente;1,222641509;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Educación;Bienestar Social e Intelectual;1;0,9783;Decreciente;1,0217;1,0217;Sobresaliente
+Porcentaje de egreso subsidiado;44561;Educación;Bienestar Social e Intelectual;0,057;-0,0358;Decreciente;2,592178771;1,2;Sobresaliente
+Satísfacción afiliados ;44561;Educación;Bienestar Social e Intelectual;4,65;4,7;Creciente;1,010752688;1,010752688;Sobresaliente
+Percepción de bienestar generado por la Caja;44561;Educación;Bienestar Social e Intelectual;0,5;0,5243;Creciente;1,0486;1,0486;Sobresaliente
+Crecimiento de coberturas;44561;Educación;Bienestar Social e Intelectual;0,6015;0,1863;Creciente;0,309725686;0,309725686;Incumple
+Penetración de uso en la población A y B;44561;Educación;Bienestar Social e Intelectual;0,2584;0,2582;Creciente;0,999226006;0,999226006;Satisfactorio
+Crecimiento ingresos;44561;Educación Formal;Bienestar Social e Intelectual;0,1382;-0,2464;Creciente;-1,7829233;0;Incumple
+Cumplimiento de presupuesto de egreso;44561;Educación Formal;Bienestar Social e Intelectual;1;1,0634;Decreciente;0,9366;0,9366;Tolerable
+Porcentaje de egreso subsidiado;44561;Educación Formal;Bienestar Social e Intelectual;0,1926;0,4974;Decreciente;-0,582554517;0;Incumple
+Satísfacción afiliados ;44561;Educación Formal;Bienestar Social e Intelectual;4,65;4,72;Creciente;1,015053763;1,015053763;Sobresaliente
+Percepción de bienestar generado por la Caja;44561;Educación Formal;Bienestar Social e Intelectual;0,5;0,5549;Creciente;1,1098;1,1098;Sobresaliente
+Crecimiento de coberturas;44561;Educación Formal;Bienestar Social e Intelectual;-0,1585;-0,0897;Creciente;1,434069401;1,2;Sobresaliente
+Penetración de uso en la población A y B;44561;Educación Formal;Bienestar Social e Intelectual;0,2584;0,0148;Creciente;0,057275542;0,057275542;Incumple
+Crecimiento ingresos;44561;ETDH;Bienestar Social e Intelectual;0,6983;0,6668;Creciente;0,954890448;0,954890448;Satisfactorio
+Cumplimiento de presupuesto de egreso;44561;ETDH;Bienestar Social e Intelectual;1;0,9227;Decreciente;1,0773;1,0773;Sobresaliente
+Porcentaje de egreso subsidiado;44561;ETDH;Bienestar Social e Intelectual;0,1066;0,0497;Decreciente;1,533771107;1,2;Sobresaliente
+Satísfacción afiliados ;44561;ETDH;Bienestar Social e Intelectual;4,65;4,72;Creciente;1,015053763;1,015053763;Sobresaliente
+Percepción de bienestar generado por la Caja;44561;ETDH;Bienestar Social e Intelectual;0,5;0,5056;Creciente;1,0112;1,0112;Sobresaliente
+Crecimiento de coberturas;44561;ETDH;Bienestar Social e Intelectual;0,5109;0,1178;Creciente;0,230573498;0,230573498;Incumple
+Penetración de uso en la población A y B;44561;ETDH;Bienestar Social e Intelectual;0,3197;0,3237;Creciente;1,01251173;1,01251173;Sobresaliente
+Crecimiento ingresos;44561;Desarrollo empresarial;Bienestar Social e Intelectual;0,1589;0,6447;Creciente;4,057268722;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44561;Desarrollo empresarial;Bienestar Social e Intelectual;0,1446;0,2891;Creciente;1,999308437;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Desarrollo empresarial;Bienestar Social e Intelectual;1;1,1794;Decreciente;0,8206;0,8206;Tolerable
+Satísfacción afiliados ;44561;Desarrollo empresarial;Bienestar Social e Intelectual;4,65;4,67;Creciente;1,004301075;1,004301075;Sobresaliente
+Percepción de bienestar generado por la Caja;44561;Desarrollo empresarial;Bienestar Social e Intelectual;0,5;0,501;Creciente;1,002;1,002;Sobresaliente
+Crecimiento de coberturas;44561;Desarrollo empresarial;Bienestar Social e Intelectual;0,94;0,413;Creciente;0,439361702;0,439361702;Incumple
+Penetración de uso en la población A y B;44561;Desarrollo empresarial;Bienestar Social e Intelectual;0,119;0,1244;Creciente;1,045378151;1,045378151;Sobresaliente
+Crecimiento ingresos;44561;Cultura;Bienestar Social e Intelectual;-0,6576;-0,5161;Creciente;1,215176399;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Cultura;Bienestar Social e Intelectual;1;1,1078;Decreciente;0,8922;0,8922;Tolerable
+Porcentaje de egreso subsidiado;44561;Cultura;Bienestar Social e Intelectual;0,706;0,6249;Decreciente;1,114872521;1,114872521;Sobresaliente
+Satísfacción afiliados ;44561;Cultura;Bienestar Social e Intelectual;4,65;4,74;Creciente;1,019354839;1,019354839;Sobresaliente
+Percepción de bienestar generado por la Caja;44561;Cultura;Bienestar Social e Intelectual;0,5;0,5589;Creciente;1,1178;1,1178;Sobresaliente
+Crecimiento de coberturas;44561;Cultura;Bienestar Social e Intelectual;0,7403;0,8511;Creciente;1,149669053;1,149669053;Sobresaliente
+Penetración de uso en la población A y B;44561;Cultura;Bienestar Social e Intelectual;0,0042;0,0043;Creciente;1,023809524;1,023809524;Sobresaliente
+Crecimiento ingresos;44561;Bibliotecas;Bienestar Social e Intelectual;-0,0959;1,5245;Creciente;2,062905871;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Bibliotecas;Bienestar Social e Intelectual;1;0,962;Decreciente;1,038;1,038;Sobresaliente
+Porcentaje de egreso subsidiado;44561;Bibliotecas;Bienestar Social e Intelectual;0,9619;0,8894;Decreciente;1,07537166;1,07537166;Sobresaliente
+Satísfacción afiliados ;44561;Bibliotecas;Bienestar Social e Intelectual;4,65;4,81;Creciente;1,034408602;1,034408602;Sobresaliente
+Percepción de bienestar generado por la Caja;44561;Bibliotecas;Bienestar Social e Intelectual;0,5;0,5965;Creciente;1,193;1,193;Sobresaliente
+Crecimiento de coberturas;44561;Bibliotecas;Bienestar Social e Intelectual;0,4018;-0,0321;Creciente;-0,079890493;0;Incumple
+Penetración de uso en la población A y B;44561;Bibliotecas;Bienestar Social e Intelectual;0,0028;0,0036;Creciente;1,285714286;1,2;Sobresaliente
+Crecimiento ingresos;44561;Desarrollo Humano;Bienestar Social e Intelectual;0,5027;0,3547;Creciente;0,705589815;0,705589815;Incumple
+Cumplimiento de presupuesto de egreso;44561;Desarrollo Humano;Bienestar Social e Intelectual;1;1,1355;Decreciente;0,8645;0,8645;Tolerable
+Porcentaje de egreso subsidiado;44561;Desarrollo Humano;Bienestar Social e Intelectual;-0,0098;0,1982;Decreciente;-22,2244898;0;Incumple
+Satísfacción afiliados ;44561;Desarrollo Humano;Bienestar Social e Intelectual;4,65;4,75;Creciente;1,021505376;1,021505376;Sobresaliente
+Percepción de bienestar generado por la Caja;44561;Desarrollo Humano;Bienestar Social e Intelectual;0,5;0,6736;Creciente;1,3472;1,2;Sobresaliente
+Crecimiento de coberturas;44561;Desarrollo Humano;Bienestar Social e Intelectual;0,4506;-0,0828;Creciente;-0,183754993;0;Incumple
+Penetración de uso en la población A y B;44561;Desarrollo Humano;Bienestar Social e Intelectual;0,1565;0,2451;Creciente;1,566134185;1,2;Sobresaliente
+Satísfacción afiliados ;44561;Empleo;Bienestar Social e Intelectual;4,65;4,29;Creciente;0,922580645;0,922580645;Tolerable
+Crecimiento de coberturas;44561;Empleo;Bienestar Social e Intelectual;-0,0728;-0,0277;Creciente;1,619505495;1,2;Sobresaliente
+Colocados vs Vacantes;44561;Empleo;Bienestar Social e Intelectual;0,62;0,5087;Creciente;0,820483871;0,820483871;Tolerable
+Orientados vs Registados;44561;Empleo;Bienestar Social e Intelectual;0,71;0,6594;Creciente;0,928732394;0,928732394;Tolerable
+Crecimiento ingresos;44561;Vivienda ;Bienestar Económico ;0,1117;0,2408;Creciente;2,155774396;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44561;Vivienda ;Bienestar Económico ;0,0721;-0,0207;Creciente;-0,287101248;0;Incumple
+Cumplimiento de presupuesto de egreso;44561;Vivienda ;Bienestar Económico ;1;1,2278;Decreciente;0,7722;0,7722;Incumple
+Satísfacción afiliados ;44561;Vivienda ;Bienestar Económico ;4,65;4,25;Creciente;0,913978495;0,913978495;Tolerable
+Percepción de bienestar generado por la Caja;44561;Vivienda ;Bienestar Económico ;0,5;0,5265;Creciente;1,053;1,053;Sobresaliente
+Crecimiento de coberturas;44561;Vivienda ;Bienestar Económico ;0,4746;0,6108;Creciente;1,286978508;1,2;Sobresaliente
+Penetración de uso en la población A y B;44561;Vivienda ;Bienestar Económico ;0,9096;0,5335;Creciente;0,586521548;0,586521548;Incumple
+Crecimiento ingresos;44561;Servicios Financieros;Bienestar Económico ;0,0843;0,145;Creciente;1,72004745;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44561;Servicios Financieros;Bienestar Económico ;0,3672;0,4718;Creciente;1,284858388;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44561;Servicios Financieros;Bienestar Económico ;1;0,8815;Decreciente;1,1185;1,1185;Sobresaliente
+Satísfacción afiliados ;44561;Servicios Financieros;Bienestar Económico ;4,65;4,59;Creciente;0,987096774;0,987096774;Satisfactorio
+Percepción de bienestar generado por la Caja;44561;Servicios Financieros;Bienestar Económico ;0,5;0,5965;Creciente;1,193;1,193;Sobresaliente
+Crecimiento de coberturas;44561;Servicios Financieros;Bienestar Económico ;0,1989;0,8545;Creciente;4,296128708;1,2;Sobresaliente
+Penetración de uso en la población A y B;44561;Servicios Financieros;Bienestar Económico ;0,9908;0,9926;Creciente;1,001816714;1,001816714;Sobresaliente
+Crecimiento ingresos;44592;Turismo;Bienestar Físico y Emocional;0,166;0,2059;Creciente;1,240361446;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44592;Turismo;Bienestar Físico y Emocional;-0,6701;-0,5803;Creciente;1,134009849;1,134009849;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Turismo;Bienestar Físico y Emocional;1;0,9714;Decreciente;1,0286;1,0286;Sobresaliente
+Porcentaje de egreso subsidiado;44592;Turismo;Bienestar Físico y Emocional;0,4012;0,3672;Decreciente;1,084745763;1,084745763;Sobresaliente
+Satísfacción afiliados ;44592;Turismo;Bienestar Físico y Emocional;4,65;4,49;Creciente;0,965591398;0,965591398;Satisfactorio
+Percepción de bienestar generado por la Caja;44592;Turismo;Bienestar Físico y Emocional;0,54;0,6482;Creciente;1,20037037;1,2;Sobresaliente
+Crecimiento de coberturas;44592;Turismo;Bienestar Físico y Emocional;0,0348;0,0549;Creciente;1,577586207;1,2;Sobresaliente
+Penetración de uso en la población A y B;44592;Turismo;Bienestar Físico y Emocional;0,4446;0,371;Creciente;0,83445794;0,83445794;Tolerable
+Crecimiento ingresos;44592;Hoteles;Bienestar Físico y Emocional;0,0578;0,1629;Creciente;2,8183391;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Hoteles;Bienestar Físico y Emocional;1;0,9781;Decreciente;1,0219;1,0219;Sobresaliente
+Porcentaje de egreso subsidiado;44592;Hoteles;Bienestar Físico y Emocional;0,3597;0,3664;Decreciente;0,981373367;0,981373367;Satisfactorio
+Satísfacción afiliados ;44592;Hoteles;Bienestar Físico y Emocional;4,65;4,46;Creciente;0,959139785;0,959139785;Satisfactorio
+Percepción de bienestar generado por la Caja;44592;Hoteles;Bienestar Físico y Emocional;0,54;0,6163;Creciente;1,141296296;1,141296296;Sobresaliente
+Crecimiento de coberturas;44592;Hoteles;Bienestar Físico y Emocional;0,0599;-0,0003;Creciente;-0,005008347;0;Incumple
+Penetración de uso en la población A y B;44592;Hoteles;Bienestar Físico y Emocional;0,4497;0,387;Creciente;0,860573716;0,860573716;Tolerable
+Crecimiento ingresos;44592;Agencia de Viajes;Bienestar Físico y Emocional;2,7152;2,012;Creciente;0,741013553;0,741013553;Incumple
+Porcentaje de márgen de utilidad;44592;Agencia de Viajes;Bienestar Físico y Emocional;-0,3814;-0,6128;Creciente;0,393287887;0,393287887;Incumple
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Agencia de Viajes;Bienestar Físico y Emocional;1;0,8914;Decreciente;1,1086;1,1086;Sobresaliente
+Satísfacción afiliados ;44592;Agencia de Viajes;Bienestar Físico y Emocional;4,65;4,7;Creciente;1,010752688;1,010752688;Sobresaliente
+Percepción de bienestar generado por la Caja;44592;Agencia de Viajes;Bienestar Físico y Emocional;0,54;0,8519;Creciente;1,577592593;1,2;Sobresaliente
+Crecimiento de coberturas;44592;Agencia de Viajes;Bienestar Físico y Emocional;-0,3949;1,0015;Creciente;2,394308537;1,2;Sobresaliente
+Penetración de uso en la población A y B;44592;Agencia de Viajes;Bienestar Físico y Emocional;0,2906;0,2345;Creciente;0,806951136;0,806951136;Tolerable
+Crecimiento ingresos;44592;Recreación y Deportes;Bienestar Físico y Emocional;0,27;0,5604;Creciente;2,075555556;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Recreación y Deportes;Bienestar Físico y Emocional;1;0,7967;Decreciente;1,2033;1,2;Sobresaliente
+Porcentaje de egreso subsidiado;44592;Recreación y Deportes;Bienestar Físico y Emocional;0,6736;0,5789;Decreciente;1,140587886;1,140587886;Sobresaliente
+Satísfacción afiliados ;44592;Recreación y Deportes;Bienestar Físico y Emocional;4,65;4,48;Creciente;0,96344086;0,96344086;Satisfactorio
+Percepción de bienestar generado por la Caja;44592;Recreación y Deportes;Bienestar Físico y Emocional;0,54;0,5978;Creciente;1,107037037;1,107037037;Sobresaliente
+Crecimiento de coberturas;44592;Recreación y Deportes;Bienestar Físico y Emocional;0,9769;1,7496;Creciente;1,79097144;1,2;Sobresaliente
+Penetración de uso en la población A y B;44592;Recreación y Deportes;Bienestar Físico y Emocional;0,3284;0,2197;Creciente;0,669001218;0,669001218;Incumple
+Crecimiento ingresos;44592;Alimentos y Bebidas;Bienestar Físico y Emocional;0,3988;0,4213;Creciente;1,056419258;1,056419258;Sobresaliente
+Porcentaje de márgen de utilidad;44592;Alimentos y Bebidas;Bienestar Físico y Emocional;0,0289;-0,0232;Creciente;-0,802768166;0;Incumple
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Alimentos y Bebidas;Bienestar Físico y Emocional;1;0,7839;Decreciente;1,2161;1,2;Sobresaliente
+Crecimiento ingresos;44592;Fomento de la salud;Bienestar Físico y Emocional;0,7917;0,4801;Creciente;0,606416572;0,606416572;Incumple
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Fomento de la salud;Bienestar Físico y Emocional;1;0,5751;Decreciente;1,4249;1,2;Sobresaliente
+Porcentaje de egreso subsidiado;44592;Fomento de la salud;Bienestar Físico y Emocional;0,2859;0,4141;Decreciente;0,551591466;0,551591466;Incumple
+Satísfacción afiliados ;44592;Fomento de la salud;Bienestar Físico y Emocional;4,65;4,71;Creciente;1,012903226;1,012903226;Sobresaliente
+Percepción de bienestar generado por la Caja;44592;Fomento de la salud;Bienestar Físico y Emocional;0,54;0,7119;Creciente;1,318333333;1,2;Sobresaliente
+Crecimiento de coberturas;44592;Fomento de la salud;Bienestar Físico y Emocional;0,1372;0,7812;Creciente;5,693877551;1,2;Sobresaliente
+Penetración de uso en la población A y B;44592;Fomento de la salud;Bienestar Físico y Emocional;0,0362;0,0644;Creciente;1,779005525;1,2;Sobresaliente
+Crecimiento ingresos;44592;Educación;Bienestar Social e Intelectual;0,2173;1,2831;Creciente;5,904739991;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Educación;Bienestar Social e Intelectual;1;0,8338;Decreciente;1,1662;1,1662;Sobresaliente
+Porcentaje de egreso subsidiado;44592;Educación;Bienestar Social e Intelectual;0,6207;0,0687;Decreciente;1,889318511;1,2;Sobresaliente
+Satísfacción afiliados ;44592;Educación;Bienestar Social e Intelectual;4,65;4,68;Creciente;1,006451613;1,006451613;Sobresaliente
+Percepción de bienestar generado por la Caja;44592;Educación;Bienestar Social e Intelectual;0,54;0,7442;Creciente;1,378148148;1,2;Sobresaliente
+Crecimiento de coberturas;44592;Educación;Bienestar Social e Intelectual;1,3356;1,0793;Creciente;0,808101228;0,808101228;Tolerable
+Penetración de uso en la población A y B;44592;Educación;Bienestar Social e Intelectual;0,2862;0,3741;Creciente;1,307127883;1,2;Sobresaliente
+Crecimiento ingresos;44592;Educación Formal;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44592;Educación Formal;Bienestar Social e Intelectual;0;0;Decreciente;N/A;1,2;Sobresaliente
+Porcentaje de egreso subsidiado;44592;Educación Formal;Bienestar Social e Intelectual;0;0;Decreciente;N/A;1,2;Sobresaliente
+Satísfacción afiliados ;44592;Educación Formal;Bienestar Social e Intelectual;4,65;0;Creciente;0;0;Incumple
+Percepción de bienestar generado por la Caja;44592;Educación Formal;Bienestar Social e Intelectual;0,5;0;Creciente;0;0;Incumple
+Crecimiento de coberturas;44592;Educación Formal;Bienestar Social e Intelectual;-0,7432;-0,7397;Creciente;1,004709365;1,004709365;Sobresaliente
+Penetración de uso en la población A y B;44592;Educación Formal;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Crecimiento ingresos;44592;ETDH;Bienestar Social e Intelectual;0,6222;2,3419;Creciente;3,763902282;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;ETDH;Bienestar Social e Intelectual;1;0,8145;Decreciente;1,1855;1,1855;Sobresaliente
+Porcentaje de egreso subsidiado;44592;ETDH;Bienestar Social e Intelectual;0,5992;-0,0407;Decreciente;15,72235872;1,2;Sobresaliente
+Satísfacción afiliados ;44592;ETDH;Bienestar Social e Intelectual;4,65;4,56;Creciente;0,980645161;0,980645161;Satisfactorio
+Percepción de bienestar generado por la Caja;44592;ETDH;Bienestar Social e Intelectual;0,54;0,7321;Creciente;1,355740741;1,2;Sobresaliente
+Crecimiento de coberturas;44592;ETDH;Bienestar Social e Intelectual;0,1184;0,8684;Creciente;7,334459459;1,2;Sobresaliente
+Penetración de uso en la población A y B;44592;ETDH;Bienestar Social e Intelectual;0,4822;0,3796;Creciente;0,787225218;0,787225218;Incumple
+Crecimiento ingresos;44592;Desarrollo empresarial;Bienestar Social e Intelectual;-0,3342;0,1593;Creciente;4,097928437;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44592;Desarrollo empresarial;Bienestar Social e Intelectual;-2,1064;-0,5113;Creciente;1,757263578;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Desarrollo empresarial;Bienestar Social e Intelectual;1;0,7827;Decreciente;1,2173;1,2;Sobresaliente
+Satísfacción afiliados ;44592;Desarrollo empresarial;Bienestar Social e Intelectual;4,65;4,81;Creciente;1,034408602;1,034408602;Sobresaliente
+Percepción de bienestar generado por la Caja;44592;Desarrollo empresarial;Bienestar Social e Intelectual;0,54;0,7573;Creciente;1,402407407;1,2;Sobresaliente
+Crecimiento de coberturas;44592;Desarrollo empresarial;Bienestar Social e Intelectual;6,4048;6;Creciente;0,936797402;0,936797402;Tolerable
+Penetración de uso en la población A y B;44592;Desarrollo empresarial;Bienestar Social e Intelectual;0,2862;0,3401;Creciente;1,188329839;1,188329839;Sobresaliente
+Crecimiento ingresos;44592;Cultura;Bienestar Social e Intelectual;-0,5684;2,8702;Creciente;2,19803498;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Cultura;Bienestar Social e Intelectual;1;0,9142;Decreciente;1,0858;1,0858;Sobresaliente
+Porcentaje de egreso subsidiado;44592;Cultura;Bienestar Social e Intelectual;0,9922;0,919;Decreciente;1,073775448;1,073775448;Sobresaliente
+Satísfacción afiliados ;44592;Cultura;Bienestar Social e Intelectual;4,65;4,77;Creciente;1,025806452;1,025806452;Sobresaliente
+Percepción de bienestar generado por la Caja;44592;Cultura;Bienestar Social e Intelectual;0,54;0,7846;Creciente;1,452962963;1,2;Sobresaliente
+Crecimiento de coberturas;44592;Cultura;Bienestar Social e Intelectual;0,2738;0,4162;Creciente;1,520087655;1,2;Sobresaliente
+Penetración de uso en la población A y B;44592;Cultura;Bienestar Social e Intelectual;0,001;0,003;Creciente;3;1,2;Sobresaliente
+Crecimiento ingresos;44592;Bibliotecas;Bienestar Social e Intelectual;-1;21,9224;Creciente;2,045615444;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Bibliotecas;Bienestar Social e Intelectual;1;0,849;Decreciente;1,151;1,151;Sobresaliente
+Porcentaje de egreso subsidiado;44592;Bibliotecas;Bienestar Social e Intelectual;1;0,9661;Decreciente;1,0339;1,0339;Sobresaliente
+Satísfacción afiliados ;44592;Bibliotecas;Bienestar Social e Intelectual;4,65;4,86;Creciente;1,04516129;1,04516129;Sobresaliente
+Percepción de bienestar generado por la Caja;44592;Bibliotecas;Bienestar Social e Intelectual;0,54;0,7586;Creciente;1,404814815;1,2;Sobresaliente
+Crecimiento de coberturas;44592;Bibliotecas;Bienestar Social e Intelectual;0,0912;0,0051;Creciente;0,055921053;0,055921053;Incumple
+Penetración de uso en la población A y B;44592;Bibliotecas;Bienestar Social e Intelectual;0,0014;0,0021;Creciente;1,5;1,2;Sobresaliente
+Crecimiento ingresos;44592;Desarrollo Humano;Bienestar Social e Intelectual;0,4073;-0,1541;Creciente;-0,3783452;0;Incumple
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Desarrollo Humano;Bienestar Social e Intelectual;1;1,02;Decreciente;0,98;0,98;Satisfactorio
+Porcentaje de egreso subsidiado;44592;Desarrollo Humano;Bienestar Social e Intelectual;0,5805;0,7721;Decreciente;0,669939707;0,669939707;Incumple
+Satísfacción afiliados ;44592;Desarrollo Humano;Bienestar Social e Intelectual;4,65;4,83;Creciente;1,038709677;1,038709677;Sobresaliente
+Percepción de bienestar generado por la Caja;44592;Desarrollo Humano;Bienestar Social e Intelectual;0,54;0,7522;Creciente;1,392962963;1,2;Sobresaliente
+Crecimiento de coberturas;44592;Desarrollo Humano;Bienestar Social e Intelectual;25,16;17,48;Creciente;0,694753577;0,694753577;Incumple
+Penetración de uso en la población A y B;44592;Desarrollo Humano;Bienestar Social e Intelectual;0,5229;0,1623;Creciente;0,310384395;0,310384395;Incumple
+Percepción de bienestar generado por la Caja;44592;Empleo;Bienestar Social e Intelectual;0,54;0,7071;Creciente;1,309444444;1,2;Sobresaliente
+Satísfacción afiliados ;44592;Empleo;Bienestar Social e Intelectual;4,65;4,63;Creciente;0,995698925;0,995698925;Satisfactorio
+Colocados vs Vacantes;44592;Empleo;Bienestar Social e Intelectual;0,52;0,469;Creciente;0,901923077;0,901923077;Tolerable
+Crecimiento de coberturas;44592;Empleo;Bienestar Social e Intelectual;-0,1454;-0,2356;Creciente;0,379642366;0,379642366;Incumple
+Cumplimiento personas formadas con recursos Fosfec;44592;Empleo;Bienestar Social e Intelectual;20,77;0,6269;Creciente;0,030182956;0,030182956;Incumple
+Cumplimiento solicitudes radicadas para acceso al subsidio al desempleo;44592;Empleo;Bienestar Social e Intelectual;0,75;0,49;Creciente;0,653333333;0,653333333;Incumple
+Orientados vs Registados;44592;Empleo;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Crecimiento ingresos;44592;Vivienda ;Bienestar Económico ;-0,1754;3,5266;Creciente;2,04973629;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44592;Vivienda ;Bienestar Económico ;-1,727;0,0566;Creciente;32,51236749;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Vivienda ;Bienestar Económico ;1;0,8351;Decreciente;1,1649;1,1649;Sobresaliente
+Satísfacción afiliados ;44592;Vivienda ;Bienestar Económico ;4,65;4,58;Creciente;0,984946237;0,984946237;Satisfactorio
+Percepción de bienestar generado por la Caja;44592;Vivienda ;Bienestar Económico ;0,54;0,7255;Creciente;1,343518519;1,2;Sobresaliente
+Crecimiento de coberturas;44592;Vivienda ;Bienestar Económico ;-0,1111;0,8519;Creciente;2,130414368;1,2;Sobresaliente
+Penetración de uso en la población A y B;44592;Vivienda ;Bienestar Económico ;0,75;0,74;Creciente;0,986666667;0,986666667;Satisfactorio
+Crecimiento ingresos;44592;Servicios Financieros;Bienestar Económico ;0,2691;0,1966;Creciente;0,730583426;0,730583426;Incumple
+Porcentaje de márgen de utilidad;44592;Servicios Financieros;Bienestar Económico ;0,1619;0,4696;Creciente;2,900555899;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44592;Servicios Financieros;Bienestar Económico ;1;0,5376;Decreciente;1,4624;1,2;Sobresaliente
+Satísfacción afiliados ;44592;Servicios Financieros;Bienestar Económico ;4,65;4,6;Creciente;0,989247312;0,989247312;Satisfactorio
+Percepción de bienestar generado por la Caja;44592;Servicios Financieros;Bienestar Económico ;0,54;0,5745;Creciente;1,063888889;1,063888889;Sobresaliente
+Crecimiento de coberturas;44592;Servicios Financieros;Bienestar Económico ;0,1679;0,6514;Creciente;3,879690292;1,2;Sobresaliente
+Penetración de uso en la población A y B;44592;Servicios Financieros;Bienestar Económico ;0,9923;0,9936;Creciente;1,001310088;1,001310088;Sobresaliente
+Crecimiento ingresos;44620;Turismo;Bienestar Físico y Emocional;0,0691;0,2438;Creciente;3,528219971;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44620;Turismo;Bienestar Físico y Emocional;-1,2364;-0,7631;Creciente;1,382804918;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Turismo;Bienestar Físico y Emocional;1;0,8192;Decreciente;1,1808;1,1808;Sobresaliente
+Porcentaje de egreso subsidiado;44620;Turismo;Bienestar Físico y Emocional;0,5528;0,4328;Decreciente;1,2170767;1,2;Sobresaliente
+Satísfacción afiliados ;44620;Turismo;Bienestar Físico y Emocional;4,65;4,54;Creciente;0,976344086;0,976344086;Satisfactorio
+Percepción de bienestar generado por la Caja;44620;Turismo;Bienestar Físico y Emocional;0,54;0,635;Creciente;1,175925926;1,175925926;Sobresaliente
+Crecimiento de coberturas;44620;Turismo;Bienestar Físico y Emocional;0,0364;0,059;Creciente;1,620879121;1,2;Sobresaliente
+Penetración de uso en la población A y B;44620;Turismo;Bienestar Físico y Emocional;0,4295;0,3418;Creciente;0,79580908;0,79580908;Incumple
+Crecimiento ingresos;44620;Hoteles;Bienestar Físico y Emocional;-0,0591;0,1811;Creciente;2,326339039;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Hoteles;Bienestar Físico y Emocional;1;0,8219;Decreciente;1,1781;1,1781;Sobresaliente
+Porcentaje de egreso subsidiado;44620;Hoteles;Bienestar Físico y Emocional;0,5146;0,4419;Decreciente;1,141274777;1,141274777;Sobresaliente
+Satísfacción afiliados ;44620;Hoteles;Bienestar Físico y Emocional;4,65;4,5;Creciente;0,967741935;0,967741935;Satisfactorio
+Percepción de bienestar generado por la Caja;44620;Hoteles;Bienestar Físico y Emocional;0,54;0,6225;Creciente;1,152777778;1,152777778;Sobresaliente
+Crecimiento de coberturas;44620;Hoteles;Bienestar Físico y Emocional;0,028;-0,0199;Creciente;-0,710714286;0;Incumple
+Penetración de uso en la población A y B;44620;Hoteles;Bienestar Físico y Emocional;0,4409;0,3577;Creciente;0,811295078;0,811295078;Tolerable
+Crecimiento ingresos;44620;Agencia de Viajes;Bienestar Físico y Emocional;2,6552;2,373;Creciente;0,893717987;0,893717987;Tolerable
+Porcentaje de márgen de utilidad;44620;Agencia de Viajes;Bienestar Físico y Emocional;-0,4885;-0,4208;Creciente;1,138587513;1,138587513;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Agencia de Viajes;Bienestar Físico y Emocional;1;0,7867;Decreciente;1,2133;1,2;Sobresaliente
+Satísfacción afiliados ;44620;Agencia de Viajes;Bienestar Físico y Emocional;4,65;4,77;Creciente;1,025806452;1,025806452;Sobresaliente
+Percepción de bienestar generado por la Caja;44620;Agencia de Viajes;Bienestar Físico y Emocional;0,54;0,7143;Creciente;1,322777778;1,2;Sobresaliente
+Crecimiento de coberturas;44620;Agencia de Viajes;Bienestar Físico y Emocional;0,2091;1,677;Creciente;8,020086083;1,2;Sobresaliente
+Penetración de uso en la población A y B;44620;Agencia de Viajes;Bienestar Físico y Emocional;0,2303;0,222;Creciente;0,963960052;0,963960052;Satisfactorio
+Crecimiento ingresos;44620;Recreación y Deportes;Bienestar Físico y Emocional;0,7883;1,7206;Creciente;2,182671572;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Recreación y Deportes;Bienestar Físico y Emocional;1;0,8263;Decreciente;1,1737;1,1737;Sobresaliente
+Porcentaje de egreso subsidiado;44620;Recreación y Deportes;Bienestar Físico y Emocional;0,7017;0,5173;Decreciente;1,262790366;1,2;Sobresaliente
+Satísfacción afiliados ;44620;Recreación y Deportes;Bienestar Físico y Emocional;4,65;4,55;Creciente;0,978494624;0,978494624;Satisfactorio
+Percepción de bienestar generado por la Caja;44620;Recreación y Deportes;Bienestar Físico y Emocional;0,54;0,6354;Creciente;1,176666667;1,176666667;Sobresaliente
+Crecimiento de coberturas;44620;Recreación y Deportes;Bienestar Físico y Emocional;0,4394;1,1487;Creciente;2,6142467;1,2;Sobresaliente
+Penetración de uso en la población A y B;44620;Recreación y Deportes;Bienestar Físico y Emocional;0,306;0,2291;Creciente;0,74869281;0,74869281;Incumple
+Crecimiento ingresos;44620;Alimentos y Bebidas;Bienestar Físico y Emocional;0,2444;0,4697;Creciente;1,921849427;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44620;Alimentos y Bebidas;Bienestar Físico y Emocional;-0,0572;0,0742;Creciente;2,770889488;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Alimentos y Bebidas;Bienestar Físico y Emocional;1;0,7545;Decreciente;1,2455;1,2;Sobresaliente
+Crecimiento ingresos;44620;Fomento de la salud;Bienestar Físico y Emocional;0,5167;0,7368;Creciente;1,425972518;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Fomento de la salud;Bienestar Físico y Emocional;1;0,5835;Decreciente;1,4165;1,2;Sobresaliente
+Porcentaje de egreso subsidiado;44620;Fomento de la salud;Bienestar Físico y Emocional;0,2883;0,1218;Decreciente;1,577523413;1,2;Sobresaliente
+Satísfacción afiliados ;44620;Fomento de la salud;Bienestar Físico y Emocional;4,65;4,68;Creciente;1,006451613;1,006451613;Sobresaliente
+Percepción de bienestar generado por la Caja;44620;Fomento de la salud;Bienestar Físico y Emocional;0,54;0,686;Creciente;1,27037037;1,2;Sobresaliente
+Crecimiento de coberturas;44620;Fomento de la salud;Bienestar Físico y Emocional;0,189;0,7278;Creciente;3,850793651;1,2;Sobresaliente
+Penetración de uso en la población A y B;44620;Fomento de la salud;Bienestar Físico y Emocional;0,0959;0,1143;Creciente;1,191866528;1,191866528;Sobresaliente
+Crecimiento ingresos;44620;Educación;Bienestar Social e Intelectual;1,6725;3,9464;Creciente;2,359581465;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Educación;Bienestar Social e Intelectual;1;0,8808;Decreciente;1,1192;1,1192;Sobresaliente
+Porcentaje de egreso subsidiado;44620;Educación;Bienestar Social e Intelectual;0,3851;-0,4152;Decreciente;1,927504817;1,2;Sobresaliente
+Satísfacción afiliados ;44620;Educación;Bienestar Social e Intelectual;4,65;4,77;Creciente;1,025806452;1,025806452;Sobresaliente
+Percepción de bienestar generado por la Caja;44620;Educación;Bienestar Social e Intelectual;0,54;0,7448;Creciente;1,379259259;1,2;Sobresaliente
+Crecimiento de coberturas;44620;Educación;Bienestar Social e Intelectual;1,0324;1,1483;Creciente;1,112262689;1,112262689;Sobresaliente
+Penetración de uso en la población A y B;44620;Educación;Bienestar Social e Intelectual;0,2422;0,4158;Creciente;1,716763006;1,2;Sobresaliente
+Crecimiento ingresos;44620;Educación Formal;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso;44620;Educación Formal;Bienestar Social e Intelectual;0;0;Decreciente;N/A;1,2;Sobresaliente
+Porcentaje de egreso subsidiado;44620;Educación Formal;Bienestar Social e Intelectual;0;0;Decreciente;N/A;1,2;Sobresaliente
+Satísfacción afiliados ;44620;Educación Formal;Bienestar Social e Intelectual;4,65;0;Creciente;0;0;Incumple
+Percepción de bienestar generado por la Caja;44620;Educación Formal;Bienestar Social e Intelectual;0,5;0;Creciente;0;0;Incumple
+Crecimiento de coberturas;44620;Educación Formal;Bienestar Social e Intelectual;-0,1976;0,8716;Creciente;2,2267095;1,2;Sobresaliente
+Penetración de uso en la población A y B;44620;Educación Formal;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Crecimiento ingresos;44620;ETDH;Bienestar Social e Intelectual;2,0694;5,7694;Creciente;2,787957862;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;ETDH;Bienestar Social e Intelectual;1;0,8733;Decreciente;1,1267;1,1267;Sobresaliente
+Porcentaje de egreso subsidiado;44620;ETDH;Bienestar Social e Intelectual;0,4003;-0,6139;Decreciente;1,652060596;1,2;Sobresaliente
+Satísfacción afiliados ;44620;ETDH;Bienestar Social e Intelectual;4,65;4,77;Creciente;1,025806452;1,025806452;Sobresaliente
+Percepción de bienestar generado por la Caja;44620;ETDH;Bienestar Social e Intelectual;0,54;0,7968;Creciente;1,475555556;1,2;Sobresaliente
+Crecimiento de coberturas;44620;ETDH;Bienestar Social e Intelectual;1,2085;1,2053;Creciente;0,997352089;0,997352089;Satisfactorio
+Penetración de uso en la población A y B;44620;ETDH;Bienestar Social e Intelectual;0,3881;0,4641;Creciente;1,195825818;1,195825818;Sobresaliente
+Crecimiento ingresos;44620;Desarrollo empresarial;Bienestar Social e Intelectual;0,9833;0,7788;Creciente;0,792026848;0,792026848;Incumple
+Porcentaje de márgen de utilidad;44620;Desarrollo empresarial;Bienestar Social e Intelectual;-0,5149;-0,1968;Creciente;1,617789862;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Desarrollo empresarial;Bienestar Social e Intelectual;1;;Decreciente;2;1,2;Sobresaliente
+Satísfacción afiliados ;44620;Desarrollo empresarial;Bienestar Social e Intelectual;4,65;4,77;Creciente;1,025806452;1,025806452;Sobresaliente
+Percepción de bienestar generado por la Caja;44620;Desarrollo empresarial;Bienestar Social e Intelectual;0,54;0,6876;Creciente;1,273333333;1,2;Sobresaliente
+Crecimiento de coberturas;44620;Desarrollo empresarial;Bienestar Social e Intelectual;9,641;14,4615;Creciente;1,5;1,2;Sobresaliente
+Penetración de uso en la población A y B;44620;Desarrollo empresarial;Bienestar Social e Intelectual;0,2422;0,1907;Creciente;0,787365813;0,787365813;Incumple
+Crecimiento ingresos;44620;Cultura;Bienestar Social e Intelectual;0,0264;3,4024;Creciente;128,8787879;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Cultura;Bienestar Social e Intelectual;1;0,9394;Decreciente;1,0606;1,0606;Sobresaliente
+Porcentaje de egreso subsidiado;44620;Cultura;Bienestar Social e Intelectual;0,9704;0,8543;Decreciente;1,119641385;1,119641385;Sobresaliente
+Satísfacción afiliados ;44620;Cultura;Bienestar Social e Intelectual;4,65;4,7;Creciente;1,010752688;1,010752688;Sobresaliente
+Percepción de bienestar generado por la Caja;44620;Cultura;Bienestar Social e Intelectual;0,54;0,7179;Creciente;1,329444444;1,2;Sobresaliente
+Crecimiento de coberturas;44620;Cultura;Bienestar Social e Intelectual;-0,2538;-0,2666;Creciente;0,949566588;0,949566588;Tolerable
+Penetración de uso en la población A y B;44620;Cultura;Bienestar Social e Intelectual;0,0016;0,0041;Creciente;2,5625;1,2;Sobresaliente
+Crecimiento ingresos;44620;Bibliotecas;Bienestar Social e Intelectual;-0,2135;0,8256;Creciente;2,258599806;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Bibliotecas;Bienestar Social e Intelectual;1;1,1041;Decreciente;0,8959;0,8959;Tolerable
+Porcentaje de egreso subsidiado;44620;Bibliotecas;Bienestar Social e Intelectual;0,9906;0,9781;Decreciente;1,012618615;1,012618615;Sobresaliente
+Satísfacción afiliados ;44620;Bibliotecas;Bienestar Social e Intelectual;4,65;4,81;Creciente;1,034408602;1,034408602;Sobresaliente
+Percepción de bienestar generado por la Caja;44620;Bibliotecas;Bienestar Social e Intelectual;0,54;0,6825;Creciente;1,263888889;1,2;Sobresaliente
+Crecimiento de coberturas;44620;Bibliotecas;Bienestar Social e Intelectual;0,0923;0,1227;Creciente;1,32936078;1,2;Sobresaliente
+Penetración de uso en la población A y B;44620;Bibliotecas;Bienestar Social e Intelectual;0,0018;0,0034;Creciente;1,888888889;1,2;Sobresaliente
+Crecimiento ingresos;44620;Desarrollo Humano;Bienestar Social e Intelectual;2,2935;0,6861;Creciente;0,299149771;0,299149771;Incumple
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Desarrollo Humano;Bienestar Social e Intelectual;1;0,9379;Decreciente;1,0621;1,0621;Sobresaliente
+Porcentaje de egreso subsidiado;44620;Desarrollo Humano;Bienestar Social e Intelectual;0,3966;0,6669;Decreciente;0,318456884;0,318456884;Incumple
+Satísfacción afiliados ;44620;Desarrollo Humano;Bienestar Social e Intelectual;4,65;4,8;Creciente;1,032258065;1,032258065;Sobresaliente
+Percepción de bienestar generado por la Caja;44620;Desarrollo Humano;Bienestar Social e Intelectual;0,54;0,7431;Creciente;1,376111111;1,2;Sobresaliente
+Crecimiento de coberturas;44620;Desarrollo Humano;Bienestar Social e Intelectual;24,0769;15,8462;Creciente;0,658149513;0,658149513;Incumple
+Penetración de uso en la población A y B;44620;Desarrollo Humano;Bienestar Social e Intelectual;0,4115;0,2661;Creciente;0,646658566;0,646658566;Incumple
+Percepción de bienestar generado por la Caja;44620;Empleo;Bienestar Social e Intelectual;0,54;0,6992;Creciente;1,294814815;1,2;Sobresaliente
+Satísfacción afiliados ;44620;Empleo;Bienestar Social e Intelectual;4,65;4,57;Creciente;0,982795699;0,982795699;Satisfactorio
+Colocados vs Vacantes;44620;Empleo;Bienestar Social e Intelectual;0,52;0,4914;Creciente;0,945;0,945;Tolerable
+Crecimiento de coberturas;44620;Empleo;Bienestar Social e Intelectual;-0,4495;-0,202;Creciente;1,550611791;1,2;Sobresaliente
+Cumplimiento personas formadas con recursos Fosfec;44620;Empleo;Bienestar Social e Intelectual;41,53;0,7224;Creciente;0,017394654;0,017394654;Incumple
+Cumplimiento solicitudes radicadas para acceso al subsidio al desempleo;44620;Empleo;Bienestar Social e Intelectual;0,75;0,56;Creciente;0,746666667;0,746666667;Incumple
+Orientados vs Registados;44620;Empleo;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Crecimiento ingresos;44620;Vivienda ;Bienestar Económico ;0,0935;0,0181;Creciente;0,193582888;0,193582888;Incumple
+Porcentaje de márgen de utilidad;44620;Vivienda ;Bienestar Económico ;-0,1158;0,0035;Creciente;35,08571429;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Vivienda ;Bienestar Económico ;1;0,8281;Decreciente;1,1719;1,1719;Sobresaliente
+Satísfacción afiliados ;44620;Vivienda ;Bienestar Económico ;4,65;4,55;Creciente;0,978494624;0,978494624;Satisfactorio
+Percepción de bienestar generado por la Caja;44620;Vivienda ;Bienestar Económico ;0,54;0,7328;Creciente;1,357037037;1,2;Sobresaliente
+Crecimiento de coberturas;44620;Vivienda ;Bienestar Económico ;0,4138;-0,0345;Creciente;-0,08337361;0;Incumple
+Penetración de uso en la población A y B;44620;Vivienda ;Bienestar Económico ;0,6504;0,7381;Creciente;1,134840098;1,134840098;Sobresaliente
+Crecimiento ingresos;44620;Servicios Financieros;Bienestar Económico ;0,2257;0,2094;Creciente;0,927780239;0,927780239;Tolerable
+Porcentaje de márgen de utilidad;44620;Servicios Financieros;Bienestar Económico ;0,2873;0,5018;Creciente;1,746606335;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44620;Servicios Financieros;Bienestar Económico ;1;0,646;Decreciente;1,354;1,2;Sobresaliente
+Satísfacción afiliados ;44620;Servicios Financieros;Bienestar Económico ;4,65;4,65;Creciente;1;1;Sobresaliente
+Percepción de bienestar generado por la Caja;44620;Servicios Financieros;Bienestar Económico ;0,54;0,6167;Creciente;1,142037037;1,142037037;Sobresaliente
+Crecimiento de coberturas;44620;Servicios Financieros;Bienestar Económico ;0,1653;0,4427;Creciente;2,67816092;1,2;Sobresaliente
+Penetración de uso en la población A y B;44620;Servicios Financieros;Bienestar Económico ;0,9926;0,9931;Creciente;1,000503728;1,000503728;Sobresaliente
+Crecimiento ingresos;44651;Turismo;Bienestar Físico y Emocional;0,0147;0,2155;Creciente;14,65986395;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44651;Turismo;Bienestar Físico y Emocional;-1,251;-0,7183;Creciente;1,425819345;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Turismo;Bienestar Físico y Emocional;1;0,8119;Decreciente;1,1881;1,1881;Sobresaliente
+Porcentaje de egreso subsidiado;44651;Turismo;Bienestar Físico y Emocional;0,5558;0,418;Decreciente;1,24793091;1,2;Sobresaliente
+Satísfacción afiliados ;44651;Turismo;Bienestar Físico y Emocional;4,65;4,62;Creciente;0,993548387;0,993548387;Satisfactorio
+Percepción de bienestar generado por la Caja;44651;Turismo;Bienestar Físico y Emocional;0,54;0,7138;Creciente;1,321851852;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Turismo;Bienestar Físico y Emocional;0,1269;0,155;Creciente;1,2214342;1,2;Sobresaliente
+Penetración de uso en la población A y B;44651;Turismo;Bienestar Físico y Emocional;0,4037;0,337;Creciente;0,834778301;0,834778301;Tolerable
+Crecimiento ingresos;44651;Hoteles;Bienestar Físico y Emocional;-0,1301;0,1395;Creciente;2,932616487;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Hoteles;Bienestar Físico y Emocional;1;0,8187;Decreciente;1,1813;1,1813;Sobresaliente
+Porcentaje de egreso subsidiado;44651;Hoteles;Bienestar Físico y Emocional;0,5289;0,439;Decreciente;1,169975421;1,169975421;Sobresaliente
+Satísfacción afiliados ;44651;Hoteles;Bienestar Físico y Emocional;4,65;4,61;Creciente;0,991397849;0,991397849;Satisfactorio
+Percepción de bienestar generado por la Caja;44651;Hoteles;Bienestar Físico y Emocional;0,54;0,7067;Creciente;1,308703704;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Hoteles;Bienestar Físico y Emocional;0,0643;0,042;Creciente;0,65318818;0,65318818;Incumple
+Penetración de uso en la población A y B;44651;Hoteles;Bienestar Físico y Emocional;0,4333;0,3611;Creciente;0,833371798;0,833371798;Tolerable
+Crecimiento ingresos;44651;Agencia de Viajes;Bienestar Físico y Emocional;2,192;2,5014;Creciente;1,141149635;1,141149635;Sobresaliente
+Porcentaje de márgen de utilidad;44651;Agencia de Viajes;Bienestar Físico y Emocional;-0,4772;-0,0904;Creciente;1,810561609;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Agencia de Viajes;Bienestar Físico y Emocional;1;0,7325;Decreciente;1,2675;1,2;Sobresaliente
+Satísfacción afiliados ;44651;Agencia de Viajes;Bienestar Físico y Emocional;4,65;4,71;Creciente;1,012903226;1,012903226;Sobresaliente
+Percepción de bienestar generado por la Caja;44651;Agencia de Viajes;Bienestar Físico y Emocional;0,54;0,7625;Creciente;1,412037037;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Agencia de Viajes;Bienestar Físico y Emocional;1,3851;2,4292;Creciente;1,753808389;1,2;Sobresaliente
+Penetración de uso en la población A y B;44651;Agencia de Viajes;Bienestar Físico y Emocional;0,1381;0,1898;Creciente;1,374366401;1,2;Sobresaliente
+Crecimiento ingresos;44651;Recreación y Deportes;Bienestar Físico y Emocional;0,6946;1,4957;Creciente;2,153325655;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Recreación y Deportes;Bienestar Físico y Emocional;1;0,7683;Decreciente;1,2317;1,2;Sobresaliente
+Porcentaje de egreso subsidiado;44651;Recreación y Deportes;Bienestar Físico y Emocional;0,6621;0,4702;Decreciente;1,289835372;1,2;Sobresaliente
+Satísfacción afiliados ;44651;Recreación y Deportes;Bienestar Físico y Emocional;4,65;4,61;Creciente;0,991397849;0,991397849;Satisfactorio
+Percepción de bienestar generado por la Caja;44651;Recreación y Deportes;Bienestar Físico y Emocional;0,54;0,6951;Creciente;1,287222222;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Recreación y Deportes;Bienestar Físico y Emocional;0,382;0,8784;Creciente;2,29947644;1,2;Sobresaliente
+Penetración de uso en la población A y B;44651;Recreación y Deportes;Bienestar Físico y Emocional;0,2778;0,2912;Creciente;1,048236141;1,048236141;Sobresaliente
+Crecimiento ingresos;44651;Alimentos y Bebidas;Bienestar Físico y Emocional;0,1546;0,4147;Creciente;2,68240621;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44651;Alimentos y Bebidas;Bienestar Físico y Emocional;-0,0467;0,1115;Creciente;2,418834081;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Alimentos y Bebidas;Bienestar Físico y Emocional;1;0,7666;Decreciente;1,2334;1,2;Sobresaliente
+Crecimiento ingresos;44651;Fomento de la salud;Bienestar Físico y Emocional;0,3563;0,8422;Creciente;2,363738423;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Fomento de la salud;Bienestar Físico y Emocional;1;0,6063;Decreciente;1,3937;1,2;Sobresaliente
+Porcentaje de egreso subsidiado;44651;Fomento de la salud;Bienestar Físico y Emocional;0,2747;0,1465;Decreciente;1,466690936;1,2;Sobresaliente
+Satísfacción afiliados ;44651;Fomento de la salud;Bienestar Físico y Emocional;4,65;4,55;Creciente;0,978494624;0,978494624;Satisfactorio
+Percepción de bienestar generado por la Caja;44651;Fomento de la salud;Bienestar Físico y Emocional;0,54;0,664;Creciente;1,22962963;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Fomento de la salud;Bienestar Físico y Emocional;0,204;0,6414;Creciente;3,144117647;1,2;Sobresaliente
+Penetración de uso en la población A y B;44651;Fomento de la salud;Bienestar Físico y Emocional;0,0933;0,1359;Creciente;1,45659164;1,2;Sobresaliente
+Crecimiento ingresos;44651;Educación;Bienestar Social e Intelectual;1,0596;2,4239;Creciente;2,287561344;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Educación;Bienestar Social e Intelectual;1;0,8696;Decreciente;1,1304;1,1304;Sobresaliente
+Porcentaje de egreso subsidiado;44651;Educación;Bienestar Social e Intelectual;0,2751;0,0246;Decreciente;1,910577972;1,2;Sobresaliente
+Satísfacción afiliados ;44651;Educación;Bienestar Social e Intelectual;4,65;4,81;Creciente;1,034408602;1,034408602;Sobresaliente
+Percepción de bienestar generado por la Caja;44651;Educación;Bienestar Social e Intelectual;0,54;0,7576;Creciente;1,402962963;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Educación;Bienestar Social e Intelectual;0,6977;1,1311;Creciente;1,62118389;1,2;Sobresaliente
+Penetración de uso en la población A y B;44651;Educación;Bienestar Social e Intelectual;0,2029;0,3282;Creciente;1,617545589;1,2;Sobresaliente
+Crecimiento ingresos;44651;Educación Formal;Bienestar Social e Intelectual;-0,01;-1;Creciente;-98;0;Incumple
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Educación Formal;Bienestar Social e Intelectual;1;1,0634;Decreciente;0,9366;0,9366;Tolerable
+Porcentaje de egreso subsidiado;44651;Educación Formal;Bienestar Social e Intelectual;0,01;1;Decreciente;-98;0;Incumple
+Satísfacción afiliados ;44651;Educación Formal;Bienestar Social e Intelectual;4,65;4,72;Creciente;1,015053763;1,015053763;Sobresaliente
+Percepción de bienestar generado por la Caja;44651;Educación Formal;Bienestar Social e Intelectual;0,5;0,5559;Creciente;1,1118;1,1118;Sobresaliente
+Crecimiento de coberturas;44651;Educación Formal;Bienestar Social e Intelectual;-1;-0,9147;Creciente;1,0853;1,0853;Sobresaliente
+Penetración de uso en la población A y B;44651;Educación Formal;Bienestar Social e Intelectual;-0,01;0;Creciente;N/A;1,2;Sobresaliente
+Crecimiento ingresos;44651;ETDH;Bienestar Social e Intelectual;1,1934;3,336;Creciente;2,79537456;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;ETDH;Bienestar Social e Intelectual;1;0,8723;Decreciente;1,1277;1,1277;Sobresaliente
+Porcentaje de egreso subsidiado;44651;ETDH;Bienestar Social e Intelectual;0,3221;0,0169;Decreciente;1,947531822;1,2;Sobresaliente
+Satísfacción afiliados ;44651;ETDH;Bienestar Social e Intelectual;4,65;4,8;Creciente;1,032258065;1,032258065;Sobresaliente
+Percepción de bienestar generado por la Caja;44651;ETDH;Bienestar Social e Intelectual;0,54;0,7926;Creciente;1,467777778;1,2;Sobresaliente
+Crecimiento de coberturas;44651;ETDH;Bienestar Social e Intelectual;0,8948;1,2406;Creciente;1,386455074;1,2;Sobresaliente
+Penetración de uso en la población A y B;44651;ETDH;Bienestar Social e Intelectual;0,3367;0,3781;Creciente;1,122958123;1,122958123;Sobresaliente
+Crecimiento ingresos;44651;Desarrollo empresarial;Bienestar Social e Intelectual;0,8443;0,6284;Creciente;0,744285207;0,744285207;Incumple
+Porcentaje de márgen de utilidad;44651;Desarrollo empresarial;Bienestar Social e Intelectual;-0,1419;-0,0543;Creciente;1,617336152;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Desarrollo empresarial;Bienestar Social e Intelectual;1;0,8366;Decreciente;1,1634;1,1634;Sobresaliente
+Satísfacción afiliados ;44651;Desarrollo empresarial;Bienestar Social e Intelectual;4,65;4,81;Creciente;1,034408602;1,034408602;Sobresaliente
+Percepción de bienestar generado por la Caja;44651;Desarrollo empresarial;Bienestar Social e Intelectual;0,54;0,731;Creciente;1,353703704;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Desarrollo empresarial;Bienestar Social e Intelectual;0,7645;1,8215;Creciente;2,382603009;1,2;Sobresaliente
+Penetración de uso en la población A y B;44651;Desarrollo empresarial;Bienestar Social e Intelectual;0,2029;0,1467;Creciente;0,723016264;0,723016264;Incumple
+Crecimiento ingresos;44651;Cultura;Bienestar Social e Intelectual;-0,6732;0,3589;Creciente;3,875731402;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Cultura;Bienestar Social e Intelectual;1;0,9353;Decreciente;1,0647;1,0647;Sobresaliente
+Porcentaje de egreso subsidiado;44651;Cultura;Bienestar Social e Intelectual;0,9601;0,8139;Decreciente;1,152275805;1,152275805;Sobresaliente
+Satísfacción afiliados ;44651;Cultura;Bienestar Social e Intelectual;4,65;4,76;Creciente;1,023655914;1,023655914;Sobresaliente
+Percepción de bienestar generado por la Caja;44651;Cultura;Bienestar Social e Intelectual;0,54;0,7182;Creciente;1,33;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Cultura;Bienestar Social e Intelectual;-0,2734;-0,2748;Creciente;0,994879298;0,994879298;Satisfactorio
+Penetración de uso en la población A y B;44651;Cultura;Bienestar Social e Intelectual;0,0043;0,0033;Creciente;0,76744186;0,76744186;Incumple
+Crecimiento ingresos;44651;Bibliotecas;Bienestar Social e Intelectual;-0,4551;0,2229;Creciente;4,041722746;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Bibliotecas;Bienestar Social e Intelectual;1;0,8435;Decreciente;1,1565;1,1565;Sobresaliente
+Porcentaje de egreso subsidiado;44651;Bibliotecas;Bienestar Social e Intelectual;0,9875;0,9686;Decreciente;1,019139241;1,019139241;Sobresaliente
+Satísfacción afiliados ;44651;Bibliotecas;Bienestar Social e Intelectual;4,65;4,8;Creciente;1,032258065;1,032258065;Sobresaliente
+Percepción de bienestar generado por la Caja;44651;Bibliotecas;Bienestar Social e Intelectual;0,54;0,7263;Creciente;1,345;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Bibliotecas;Bienestar Social e Intelectual;0,0925;-0,1418;Creciente;-1,532972973;0;Incumple
+Penetración de uso en la población A y B;44651;Bibliotecas;Bienestar Social e Intelectual;0,0019;0,0045;Creciente;2,368421053;1,2;Sobresaliente
+Crecimiento ingresos;44651;Desarrollo Humano;Bienestar Social e Intelectual;1,6554;0,7558;Creciente;0,456566389;0,456566389;Incumple
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Desarrollo Humano;Bienestar Social e Intelectual;1;0,9163;Decreciente;1,0837;1,0837;Sobresaliente
+Porcentaje de egreso subsidiado;44651;Desarrollo Humano;Bienestar Social e Intelectual;0,3132;0,4984;Decreciente;0,408684547;0,408684547;Incumple
+Satísfacción afiliados ;44651;Desarrollo Humano;Bienestar Social e Intelectual;4,65;4,8;Creciente;1,032258065;1,032258065;Sobresaliente
+Percepción de bienestar generado por la Caja;44651;Desarrollo Humano;Bienestar Social e Intelectual;0,54;0,7558;Creciente;1,39962963;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Desarrollo Humano;Bienestar Social e Intelectual;2,511;1,8483;Creciente;0,736081243;0,736081243;Incumple
+Penetración de uso en la población A y B;44651;Desarrollo Humano;Bienestar Social e Intelectual;0,391;0,4157;Creciente;1,063171355;1,063171355;Sobresaliente
+Percepción de bienestar generado por la Caja;44651;Empleo;Bienestar Social e Intelectual;0,54;0,6882;Creciente;1,274444444;1,2;Sobresaliente
+Satísfacción afiliados ;44651;Empleo;Bienestar Social e Intelectual;4,65;4,56;Creciente;0,980645161;0,980645161;Satisfactorio
+Crecimiento de coberturas;44651;Empleo;Bienestar Social e Intelectual;-0,3707;-0,1017;Creciente;1,725654168;1,2;Sobresaliente
+Colocados vs Vacantes;44651;Empleo;Bienestar Social e Intelectual;0,52;0,5083;Creciente;0,9775;0,9775;Satisfactorio
+Cumplimiento de solicitudes radicadas para acceso al subsidio de desempleo;44651;Empleo;Bienestar Social e Intelectual;0,75;0,65;Creciente;0,866666667;0,866666667;Tolerable
+Crecimiento ingresos;44651;Vivienda ;Bienestar Económico ;-0,1525;-0,2418;Creciente;0,41442623;0,41442623;Incumple
+Porcentaje de márgen de utilidad;44651;Vivienda ;Bienestar Económico ;-0,0422;-0,144;Creciente;-1,412322275;0;Incumple
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Vivienda ;Bienestar Económico ;1;0,7657;Decreciente;1,2343;1,2;Sobresaliente
+Satísfacción afiliados ;44651;Vivienda ;Bienestar Económico ;4,65;4,56;Creciente;0,980645161;0,980645161;Satisfactorio
+Percepción de bienestar generado por la Caja;44651;Vivienda ;Bienestar Económico ;0,54;0,7391;Creciente;1,368703704;1,2;Sobresaliente
+Crecimiento de coberturas;44651;Vivienda ;Bienestar Económico ;0,4472;-0,0124;Creciente;-0,027728086;0;Incumple
+Penetración de uso en la población A y B;44651;Vivienda ;Bienestar Económico ;0,6352;0,6415;Creciente;1,009918136;1,009918136;Sobresaliente
+Crecimiento ingresos;44651;Servicios Financieros;Bienestar Económico ;0,2164;0,2142;Creciente;0,989833641;0,989833641;Satisfactorio
+Porcentaje de márgen de utilidad;44651;Servicios Financieros;Bienestar Económico ;0,2492;0,458;Creciente;1,83788122;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44651;Servicios Financieros;Bienestar Económico ;1;0,7144;Decreciente;1,2856;1,2;Sobresaliente
+Satísfacción afiliados ;44651;Servicios Financieros;Bienestar Económico ;0,0465;0,0459;Creciente;0,987096774;0,987096774;Satisfactorio
+Percepción de bienestar generado por la Caja;44651;Servicios Financieros;Bienestar Económico ;0,54;0,6026;Creciente;1,115925926;1,115925926;Sobresaliente
+Crecimiento de coberturas;44651;Servicios Financieros;Bienestar Económico ;0,1681;0,3715;Creciente;2,209994051;1,2;Sobresaliente
+Penetración de uso en la población A y B;44651;Servicios Financieros;Bienestar Económico ;0,9932;0,9922;Creciente;0,998993153;0,998993153;Satisfactorio
+Crecimiento ingresos;44681;Turismo;Bienestar Físico y Emocional;0,2506;0,4294;Creciente;1,71348763;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44681;Turismo;Bienestar Físico y Emocional;-1,0593;-0,655;Creciente;1,381667139;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Turismo;Bienestar Físico y Emocional;1;0,8189;Decreciente;1,1811;1,1811;Sobresaliente
+Porcentaje de egreso subsidiado;44681;Turismo;Bienestar Físico y Emocional;0,5154;0,3958;Decreciente;1,232052775;1,2;Sobresaliente
+Satísfacción afiliados ;44681;Turismo;Bienestar Físico y Emocional;4,65;4,68;Creciente;1,006451613;1,006451613;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Turismo;Bienestar Físico y Emocional;0,54;0,7384;Creciente;1,367407407;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Turismo;Bienestar Físico y Emocional;0,1945;0,3679;Creciente;1,89151671;1,2;Sobresaliente
+Penetración de uso en la población A y B;44681;Turismo;Bienestar Físico y Emocional;0,4069;0,3437;Creciente;0,844679282;0,844679282;Tolerable
+Crecimiento ingresos;44681;Hoteles;Bienestar Físico y Emocional;0,0863;0,3397;Creciente;3,93626883;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Hoteles;Bienestar Físico y Emocional;1;0,8238;Decreciente;1,1762;1,1762;Sobresaliente
+Porcentaje de egreso subsidiado;44681;Hoteles;Bienestar Físico y Emocional;0,4759;0,4215;Decreciente;1,114309729;1,114309729;Sobresaliente
+Satísfacción afiliados ;44681;Hoteles;Bienestar Físico y Emocional;4,65;4,68;Creciente;1,006451613;1,006451613;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Hoteles;Bienestar Físico y Emocional;0,54;0,7373;Creciente;1,36537037;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Hoteles;Bienestar Físico y Emocional;0,1328;0,2292;Creciente;1,725903614;1,2;Sobresaliente
+Penetración de uso en la población A y B;44681;Hoteles;Bienestar Físico y Emocional;0,4356;0,3732;Creciente;0,856749311;0,856749311;Tolerable
+Crecimiento ingresos;44681;Agencia de Viajes;Bienestar Físico y Emocional;2,201;2,5266;Creciente;1,147932758;1,147932758;Sobresaliente
+Porcentaje de márgen de utilidad;44681;Agencia de Viajes;Bienestar Físico y Emocional;-0,3035;-0,0021;Creciente;1,993080725;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Agencia de Viajes;Bienestar Físico y Emocional;1;0,763;Decreciente;1,237;1,2;Sobresaliente
+Satísfacción afiliados ;44681;Agencia de Viajes;Bienestar Físico y Emocional;4,65;4,66;Creciente;1,002150538;1,002150538;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Agencia de Viajes;Bienestar Físico y Emocional;0,54;0,7474;Creciente;1,384074074;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Agencia de Viajes;Bienestar Físico y Emocional;1,3937;3,0663;Creciente;2,200114802;1,2;Sobresaliente
+Penetración de uso en la población A y B;44681;Agencia de Viajes;Bienestar Físico y Emocional;0,1435;0,1699;Creciente;1,183972125;1,183972125;Sobresaliente
+Crecimiento ingresos;44681;Recreación y Deportes;Bienestar Físico y Emocional;1,0355;1,8838;Creciente;1,819217769;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Recreación y Deportes;Bienestar Físico y Emocional;1;0,8081;Decreciente;1,1919;1,1919;Sobresaliente
+Porcentaje de egreso subsidiado;44681;Recreación y Deportes;Bienestar Físico y Emocional;0,6487;0,4805;Decreciente;1,259287806;1,2;Sobresaliente
+Satísfacción afiliados ;44681;Recreación y Deportes;Bienestar Físico y Emocional;4,65;4,67;Creciente;1,004301075;1,004301075;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Recreación y Deportes;Bienestar Físico y Emocional;0,54;0,7097;Creciente;1,314259259;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Recreación y Deportes;Bienestar Físico y Emocional;0,5403;1,0178;Creciente;1,883768277;1,2;Sobresaliente
+Penetración de uso en la población A y B;44681;Recreación y Deportes;Bienestar Físico y Emocional;0,2839;0,2871;Creciente;1,011271574;1,011271574;Sobresaliente
+Crecimiento ingresos;44681;Alimentos y Bebidas;Bienestar Físico y Emocional;0,4318;0,7133;Creciente;1,651922186;1,2;Sobresaliente
+Porcentaje de márgen de utilidad;44681;Alimentos y Bebidas;Bienestar Físico y Emocional;-0,0394;0,1321;Creciente;2,298258895;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Alimentos y Bebidas;Bienestar Físico y Emocional;1;0,7573;Decreciente;1,2427;1,2;Sobresaliente
+Crecimiento ingresos;44681;Fomento de la salud;Bienestar Físico y Emocional;0,5301;0,9139;Creciente;1,724014337;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Fomento de la salud;Bienestar Físico y Emocional;1;0,7644;Decreciente;1,2356;1,2;Sobresaliente
+Porcentaje de egreso subsidiado;44681;Fomento de la salud;Bienestar Físico y Emocional;0,2401;0,1645;Decreciente;1,314868805;1,2;Sobresaliente
+Satísfacción afiliados ;44681;Fomento de la salud;Bienestar Físico y Emocional;4,65;4,53;Creciente;0,974193548;0,974193548;Satisfactorio
+Percepción de bienestar generado por la Caja;44681;Fomento de la salud;Bienestar Físico y Emocional;0,54;0,6607;Creciente;1,223518519;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Fomento de la salud;Bienestar Físico y Emocional;0,3177;0,6442;Creciente;2,027699087;1,2;Sobresaliente
+Penetración de uso en la población A y B;44681;Fomento de la salud;Bienestar Físico y Emocional;0,0858;0,1475;Creciente;1,719114219;1,2;Sobresaliente
+Crecimiento ingresos;44681;Educación;Bienestar Social e Intelectual;0,8273;1,5137;Creciente;1,829686933;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Educación;Bienestar Social e Intelectual;1;0,9027;Decreciente;1,0973;1,0973;Sobresaliente
+Porcentaje de egreso subsidiado;44681;Educación;Bienestar Social e Intelectual;0,1645;0,0631;Decreciente;1,616413374;1,2;Sobresaliente
+Satísfacción afiliados ;44681;Educación;Bienestar Social e Intelectual;4,65;4,77;Creciente;1,025806452;1,025806452;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Educación;Bienestar Social e Intelectual;0,54;0,7291;Creciente;1,350185185;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Educación;Bienestar Social e Intelectual;0,811;1,0136;Creciente;1,249815043;1,2;Sobresaliente
+Penetración de uso en la población A y B;44681;Educación;Bienestar Social e Intelectual;0,1873;0,3236;Creciente;1,727709557;1,2;Sobresaliente
+Crecimiento ingresos;44681;Educación Formal;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Educación Formal;Bienestar Social e Intelectual;0;0;Decreciente;N/A;1,2;Sobresaliente
+Porcentaje de egreso subsidiado;44681;Educación Formal;Bienestar Social e Intelectual;0;0;Decreciente;N/A;1,2;Sobresaliente
+Satísfacción afiliados ;44681;Educación Formal;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Educación Formal;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Educación Formal;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Penetración de uso en la población A y B;44681;Educación Formal;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Crecimiento ingresos;44681;ETDH;Bienestar Social e Intelectual;0,8725;1,9109;Creciente;2,190143266;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;ETDH;Bienestar Social e Intelectual;1;0,9096;Decreciente;1,0904;1,0904;Sobresaliente
+Porcentaje de egreso subsidiado;44681;ETDH;Bienestar Social e Intelectual;0,2153;0,103;Decreciente;1,521597771;1,2;Sobresaliente
+Satísfacción afiliados ;44681;ETDH;Bienestar Social e Intelectual;4,65;4,75;Creciente;1,021505376;1,021505376;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;ETDH;Bienestar Social e Intelectual;0,54;0,7483;Creciente;1,385740741;1,2;Sobresaliente
+Crecimiento de coberturas;44681;ETDH;Bienestar Social e Intelectual;0,9718;1,052;Creciente;1,082527269;1,082527269;Sobresaliente
+Penetración de uso en la población A y B;44681;ETDH;Bienestar Social e Intelectual;0,3331;0,3816;Creciente;1,145601921;1,145601921;Sobresaliente
+Crecimiento ingresos;44681;Desarrollo empresarial;Bienestar Social e Intelectual;0,8251;0,7006;Creciente;0,849109199;0,849109199;Tolerable
+Porcentaje de márgen de utilidad;44681;Desarrollo empresarial;Bienestar Social e Intelectual;-0,0047;0,1302;Creciente;2,03609831;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Desarrollo empresarial;Bienestar Social e Intelectual;1;0,8764;Decreciente;1,1236;1,1236;Sobresaliente
+Satísfacción afiliados ;44681;Desarrollo empresarial;Bienestar Social e Intelectual;4,65;4,79;Creciente;1,030107527;1,030107527;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Desarrollo empresarial;Bienestar Social e Intelectual;0,54;0,7123;Creciente;1,319074074;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Desarrollo empresarial;Bienestar Social e Intelectual;0,8036;1,5837;Creciente;1,970756595;1,2;Sobresaliente
+Penetración de uso en la población A y B;44681;Desarrollo empresarial;Bienestar Social e Intelectual;0,1873;0,1223;Creciente;0,652963161;0,652963161;Incumple
+Crecimiento ingresos;44681;Cultura;Bienestar Social e Intelectual;-0,4278;0,8058;Creciente;2,530900968;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Cultura;Bienestar Social e Intelectual;1;0,9736;Decreciente;1,0264;1,0264;Sobresaliente
+Porcentaje de egreso subsidiado;44681;Cultura;Bienestar Social e Intelectual;0,9431;0,8151;Decreciente;1,135722617;1,135722617;Sobresaliente
+Satísfacción afiliados ;44681;Cultura;Bienestar Social e Intelectual;4,65;4,79;Creciente;1,030107527;1,030107527;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Cultura;Bienestar Social e Intelectual;0,54;0,7504;Creciente;1,38962963;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Cultura;Bienestar Social e Intelectual;-0,02;0,0114;Creciente;3,754385965;1,2;Sobresaliente
+Penetración de uso en la población A y B;44681;Cultura;Bienestar Social e Intelectual;0,003;0,0054;Creciente;1,8;1,2;Sobresaliente
+Crecimiento ingresos;44681;Bibliotecas;Bienestar Social e Intelectual;-0,2549;0,089;Creciente;4,864044944;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Bibliotecas;Bienestar Social e Intelectual;1;0,7677;Decreciente;1,2323;1,2;Sobresaliente
+Porcentaje de egreso subsidiado;44681;Bibliotecas;Bienestar Social e Intelectual;0,9797;0,9661;Decreciente;1,013881801;1,013881801;Sobresaliente
+Satísfacción afiliados ;44681;Bibliotecas;Bienestar Social e Intelectual;4,65;4,79;Creciente;1,030107527;1,030107527;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Bibliotecas;Bienestar Social e Intelectual;0,54;0,7232;Creciente;1,339259259;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Bibliotecas;Bienestar Social e Intelectual;0,101;0,0634;Creciente;0,627722772;0,627722772;Incumple
+Penetración de uso en la población A y B;44681;Bibliotecas;Bienestar Social e Intelectual;0,0019;0,0044;Creciente;2,315789474;1,2;Sobresaliente
+Crecimiento ingresos;44681;Desarrollo Humano;Bienestar Social e Intelectual;1,5453;0,5786;Creciente;0,374425678;0,374425678;Incumple
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Desarrollo Humano;Bienestar Social e Intelectual;1;0,9348;Decreciente;1,0652;1,0652;Sobresaliente
+Porcentaje de egreso subsidiado;44681;Desarrollo Humano;Bienestar Social e Intelectual;0,2483;0,4766;Decreciente;0,080547725;0,080547725;Incumple
+Satísfacción afiliados ;44681;Desarrollo Humano;Bienestar Social e Intelectual;4,65;4,79;Creciente;1,030107527;1,030107527;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Desarrollo Humano;Bienestar Social e Intelectual;0,54;0,7561;Creciente;1,400185185;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Desarrollo Humano;Bienestar Social e Intelectual;1,8924;1,586;Creciente;0,838089199;0,838089199;Tolerable
+Penetración de uso en la población A y B;44681;Desarrollo Humano;Bienestar Social e Intelectual;0,3597;0,4719;Creciente;1,311926606;1,2;Sobresaliente
+Percepción de bienestar generado por la Caja;44681;Empleo;Bienestar Social e Intelectual;0,54;0,699;Creciente;1,294444444;1,2;Sobresaliente
+Satísfacción afiliados ;44681;Empleo;Bienestar Social e Intelectual;4,65;4,57;Creciente;0,982795699;0,982795699;Satisfactorio
+Crecimiento de coberturas;44681;Empleo;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Colocados vs Vacantes;44681;Empleo;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Cumplimiento de solicitudes radicadas para acceso al subsidio de desempleo;44681;Empleo;Bienestar Social e Intelectual;0;0;Creciente;N/A;1,2;Sobresaliente
+Crecimiento ingresos;44681;Vivienda ;Bienestar Económico ;-0,0593;-0,1893;Creciente;-1,192242833;0;Incumple
+Porcentaje de márgen de utilidad;44681;Vivienda ;Bienestar Económico ;0,0306;-0,0363;Creciente;-1,18627451;0;Incumple
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Vivienda ;Bienestar Económico ;1;0,8835;Decreciente;1,1165;1,1165;Sobresaliente
+Satísfacción afiliados ;44681;Vivienda ;Bienestar Económico ;4,65;4,56;Creciente;0,980645161;0,980645161;Satisfactorio
+Percepción de bienestar generado por la Caja;44681;Vivienda ;Bienestar Económico ;0,54;0,7594;Creciente;1,406296296;1,2;Sobresaliente
+Crecimiento de coberturas;44681;Vivienda ;Bienestar Económico ;0,7157;0,0863;Creciente;0,120581249;0,120581249;Incumple
+Penetración de uso en la población A y B;44681;Vivienda ;Bienestar Económico ;0,6272;0,715;Creciente;1,139987245;1,139987245;Sobresaliente
+Crecimiento ingresos;44681;Servicios Financieros;Bienestar Económico ;0,2228;0,207;Creciente;0,929084381;0,929084381;Tolerable
+Porcentaje de márgen de utilidad;44681;Servicios Financieros;Bienestar Económico ;0,3057;0,4759;Creciente;1,556754989;1,2;Sobresaliente
+Cumplimiento de presupuesto de egreso cuentas fijas;44681;Servicios Financieros;Bienestar Económico ;1;0,6701;Decreciente;1,3299;1,2;Sobresaliente
+Satísfacción afiliados ;44681;Servicios Financieros;Bienestar Económico ;4,65;4,61;Creciente;0,991397849;0,991397849;Satisfactorio
+Percepción de bienestar generado por la Caja;44681;Servicios Financieros;Bienestar Económico ;0,54;0,6389;Creciente;1,183148148;1,183148148;Sobresaliente
+Crecimiento de coberturas;44681;Servicios Financieros;Bienestar Económico ;0,1682;0,3442;Creciente;2,046373365;1,2;Sobresaliente
+Penetración de uso en la población A y B;44681;Servicios Financieros;Bienestar Económico ;0,9927;0,9916;Creciente;0,998891911;0,998891911;Satisfactorio
